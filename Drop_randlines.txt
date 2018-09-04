@@ -1,0 +1,5 @@
+1"You want me to drop... what?"
+2"I don't have such thing"
+3"Do I have that?"
+4"I don't think I have that"
+5"That is not with me..."

@@ -1,0 +1,52 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>6eea0b8b-71d3-41bc-9b4b-840ba32da82a</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Adventure_Game.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Adventure Game</Name>
+    <RootNamespace>Adventure Game</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Adventure_Game.py" />
+    <Compile Include="Action_Modules.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Progress_Modules.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Chapter1.txt" />
+    <Content Include="Chapter2.txt" />
+    <Content Include="Drop_randlines.txt" />
+    <Content Include="Game_Instructions.txt" />
+    <Content Include="Pickup_randlines.txt" />
+    <Content Include="Prolog.txt" />
+    <Content Include="rooms_description.txt" />
+    <Content Include="Action_randlines.txt" />
+    <Content Include="Think_Hints.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

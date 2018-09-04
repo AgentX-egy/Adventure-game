@@ -1,0 +1,7 @@
+1"You want me to pick up... what?"
+2"I don't see such thing"
+3"What are you saying?!?"
+4"I'm clueless"
+5"I Can't find it here"
+6"Mabye it's in another room?"
+7"?????"

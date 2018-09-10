@@ -1,23 +1,25 @@
-﻿Rumors say an engineering student fell asleep in the underground workshops while drawing their 13th schematics in one day.
+﻿Rumors say an engineering student fell asleep in the underground workshop one day, searching for wealth
 					CHAPTER 0 - Prolog
 At night, you -a night guard- saw a boy through the security cameras.
 It's 2:00 AM.
-The entire campus closes automatically. It doesn't opened until morning, not even with security level clearance.
+The entire campus closes automatically. It doesn't opened until morning, only the dean can open it.
 You tried to wake the boy up using security controls, but nothing works. 
-You tried: the speaker, the lights, the gates. Nothing works.
-Nothing responds when pressing their corresponding buttons.
+You tried pressing buttons: the speaker, the lights, the gates. Nothing works.
+
 The underground level had not been maintained for ages.
 "Why would anybody be down there anyway," you asked.
 
 A few minutes later the boy woke up on their own.
 You saw that the first thing the boy did was to check their phone.
 "He is using an EngineeringTemp™ phone," you noticed "I can contact him using it."
+(searching...)
+(connection established)
 -----------------------------------------------------------------------------------------------
 >>"Hello."
 > "hi...."
 > "who are u?"
 >>"I'm a security guard."
->>"It's 2 AM, why are you done there?
+>>"It's 2 AM, how are you done there?
 > "i had a class and i think! i overslept 😆
 -----------------------------------------------------------------------------------------------
 *sigh*
@@ -28,7 +30,7 @@ As you tried to contact him again to clear his misconception or possibly his lie
 > "Can you guide me out of here?"
 -----------------------------------------------------------------------------------------------
 You feel like you have read something similar before.
-You feel like what you read haunted you from ages ago, and it came.
+You feel like read that phrase haunted you from ages ago, and it came.
 It came back to haunt you 
 You tremble. However, you tried to ignore the thoughts and to continue typing.
 -----------------------------------------------------------------------------------------------
@@ -50,7 +52,7 @@ Calm, at last, you jumped at the lights switching back on.
 The computer switched on again.
 But the kid was gone.
 					CHAPTER 1
-For an entire week, you saw the kid. but never did you even think of contacting him again.
+For an entire week, you saw the kid; but never did you even think of contacting him again.
 At night he wakes up, roam around as if lost. And in the morning, he simply vanishes.
 You tried to access the underground workshops at day, but the doors don't respond.
 Finally, you had to ask someone, "I need some help" you thought.
